@@ -1,0 +1,3 @@
+[submodule "src/jsbgl-beta"]
+	path = src/jsbgl-beta
+	url = https://github.com/BitgesellOfficial/jsbgl.git
